@@ -1,0 +1,4 @@
+Roses are red,
+asynchronous programming is hard,
+I hope I learn it soon,
+violets are blue
